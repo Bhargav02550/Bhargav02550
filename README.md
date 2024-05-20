@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Flutter,Unity,Unreal,Blender**
 
-- 💬 Ask me about **Flutter,Unity**
+- 💬 Ask me about **Flutter,Unity,Web**
 
-- 📫 How to reach me **kumarpenke460@gmail.com**
+- 📫 How to reach me **bhargav.pavan.025@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
