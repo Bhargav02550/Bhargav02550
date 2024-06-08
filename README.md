@@ -93,6 +93,9 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
   </a> 
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="github" width="40" height="40"/> 
+  </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhargav02550&show_icons=true&locale=en&layout=compact" alt="bhargav02550" /></p>
