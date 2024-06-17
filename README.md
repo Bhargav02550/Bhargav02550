@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav02550&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav02550" /> </p>
 
-- 🔭 I’m currently working on **Backend Designing**
+- 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Node JS, PHP**
 
