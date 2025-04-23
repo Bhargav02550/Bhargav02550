@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Node JS, PHP**
+- 🌱 I’m currently learning **Springboot + Webflux**
 
-- 💬 Ask me about **Flutter, Game desiging, Web, Backend**
+- 💬 Ask me about **Back-end development**
 
 - 📫 How to reach me **bhargav.pavan.025@gmail.com**
 
