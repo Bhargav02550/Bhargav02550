@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhargav</h1>
-<h3 align="center">A passionate Game developer and fullstack developer from India</h3>
+<h3 align="center">A passionate software Engineer expert in back-end services</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav02550&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav02550" /> </p>
 
